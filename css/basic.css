@@ -1,0 +1,32 @@
+body{
+  background-color:#e393ff;
+  font-family: helvetica;
+  font-size: 40px;
+  color: #12122f;
+}
+
+h1{
+  font-family: helvetica;
+  color: #000;
+  letter-spacing: 1px;
+}
+
+.birth-date {
+  border-bottom: solid black 3pt;
+}
+
+.container{
+  margin: 6%;
+  padding: 2%;
+  box-sizing: border-box;
+  border: dashed black 2px;
+}
+
+#virgo {
+  color: #ffffff;
+  font-weight: 400;
+  font-family: 'Lobster Two', cursive;
+  font-size: 150px;
+  
+}
+
